@@ -5,12 +5,12 @@
 1. Откройте страницу подразделения.
 2. Нажмите на кнопку "Добавить" в блоке "Программы дополнительного образования".
 
-<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
 \
 3\. Заполните все обязательные поля, необязательные поля можете заполнить по своему усмотрению, выберите Образовательный проект - "Беспилотные авиационные системы", внесите [идентификатор курса из У2035](../integraciya-s-u2035/identifikator-kursa-v-u2035.md) и сохраните.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 :::info
 

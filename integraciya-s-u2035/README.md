@@ -29,11 +29,11 @@
 1. На странице редактирования организации есть чекбокс “Участник проекта Кадры для БАС” для тарифов “Индивидуальный” и “Профессиональный”.
 2. В разделе “Интеграция с У2035” есть карточка интеграции по проекту.
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 3. По нажатию на карточку проекта пользователь переходит к настройке интеграции:
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 Настройка интеграции состоит из 4 этапов, на каждом из них надо совершить какое-либо действие.
 
@@ -44,22 +44,22 @@
 
 #### Этап 2
 
-<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 * При переходе на этот этап изменяется статус первого этапа на “выполнено”, а второго на “в процессе”
 * Здесь же отображается поле для ввода Basic и кнопка подключения
 * После того как пользователь введет Basic и нажмет подключение, отправятся GET и POST запросы к тестовому хранилищу У2035 в соответствии с их документацией
 * Пока ожидается ответ от У2035, показывается спиннер:
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 Если все хорошо, то показывается успешный статус подключения на этом этапе и разблокируется кнопка “Проверено”:
 
-<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 Если что-то пошло не так, отражается ошибка:
 
-<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 В случае успеха из ответа на POST-запрос забирается guid, он потребуется на следующем этапе.
 
@@ -99,31 +99,31 @@
 
 4. По нажатию на кнопку “Все отлично” на этапе 4 интеграция считается завершенной и статус меняется на странице интеграций с У2035:
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 * Показывается восклицательный знак у шестеренки и подсказка&#x20;
 * После завершения настройки интеграции (при статусе “Активен”) не будет возможности провалиться в карточку интеграции и поменять какие-либо настройки
 
 5. В шестеренке добавлена опция “Отключить”:
 
-<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 По нажатию на “Отключить” показывается предупреждающее модальное окно:
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 По нажатию на кнопку “Отключить” сбрасываются настройки интеграции, она переводится в статус “Не выполнен” и появляется возможность настроить интеграцию заново.
 
 6. Прогресс пользователя при настройке интеграции сохраняется. То есть, например, если пользователь дошел до этапа 2, то при возврате в настройку интеграции он снова окажется на том этапе, где остановился ранее.
 7. Разрешается переход между этапами посредством нажатия на радиобаттоны (кроме перехода на этапы, которые еще не открылись пользователю):
 
-<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 При этом кнопки переходов на этапах 2 и 4 (“Проверено” и “Все отлично”), если ранее эти шаги были пройдены, будут неактивными. Стать активными они могут только в случае, если пользователь поменял значение в поле Basic на этих этапах. Но менять можно только, если интеграция еще настроена не до конца.
 
 8. В зависимости от этапов интеграции, на которых остановился пользователь, статусы в карточке проекта могут меняться:
 
-<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 * Не выполнен - если пользователь не заходил в карточку интеграции
 * В процессе - если пользователь находится на каком-либо этапов интеграции (1/4, 2/4 и т.д.)

@@ -11,6 +11,6 @@
 
 Необходимо в установленный срок изучить материал и выполнить задание.
 
-<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 После изучения получить оценку от преподавателя. Далее последует проверка цифрового следа, он будет принят и отправлен в У2025.

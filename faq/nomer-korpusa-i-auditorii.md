@@ -8,8 +8,8 @@
 
 Помещение создается через главную страницу организации в разделе "Адрес и корпуса" (это необязательно).&#x20;
 
-<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
 Информация о корпусах и помещениях при создании/редактировании активности подтягивается именно с главной страницы.
 
-<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>

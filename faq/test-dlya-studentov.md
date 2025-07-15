@@ -8,4 +8,4 @@
 
 Такой возможности нет, но если в рамках теста сделать несколько вариантов, то они случайным образом будут выпадать слушателям.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>

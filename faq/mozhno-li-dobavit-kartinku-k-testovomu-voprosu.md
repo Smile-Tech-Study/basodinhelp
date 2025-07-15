@@ -8,6 +8,6 @@
 
 В формулировке тестового задания (вопросе) можно добавлять картинки. Для этого надо нажать на три точки при формировании вопроса и выбрать значок картинки.
 
-<figure><img src="../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 
 В вариантах ответа такой возможности не предусмотрено.

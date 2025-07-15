@@ -18,4 +18,4 @@
 
 По всем практическим активностям ставится оценка. Это обязательно поле в отчете ЦС гражданина по практическим активностям, поэтому и мы просим их заполнения (нулями/единицами), чтобы У2035 принял отчет.
 
-<figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>

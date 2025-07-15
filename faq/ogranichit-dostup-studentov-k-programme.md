@@ -10,8 +10,8 @@
 
 1\. На странице редактирования программы в блоке "Доступ" установите соответствующие настройки "Закрывать доступ к активностям и материалам студентам, завершившим программу неуспешно"/"Закрывать доступ к активностям и материалам студентам после завершения программы".
 
-<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
 2\. При отчислении студента назначьте ему статус "Не завершил обучение" на странице завершения обучения (раздел "Поток" -> "Завершить обучение").
 
-<figure><img src="../.gitbook/assets/image (77).png" alt="" width="563"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (77).png" alt="" width="563"><figcaption></figcaption></figure>

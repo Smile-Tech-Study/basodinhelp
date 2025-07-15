@@ -8,4 +8,4 @@
 
 Если в программе какое-либо расширение не применимо, то на странице редактирования активности можно указать "Нет данных", либо 0 (в зависимости от того, числовое это поле или текстовое).
 
-<figure><img src="../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
