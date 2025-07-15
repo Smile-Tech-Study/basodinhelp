@@ -17,7 +17,7 @@
 
 3. Сохраните блок (дисциплину).
 
-![](<../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (67).png>)
 
 :::tip
 

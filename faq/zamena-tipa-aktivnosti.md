@@ -4,7 +4,7 @@
 
 Если меняется в практическом блоке тип активности с "Практики" на "Задание", надо ли отменять ЦС методиста?
 
-![](<../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (4).png>)
 
 **Ответ:**
 

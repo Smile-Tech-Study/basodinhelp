@@ -8,4 +8,4 @@
 
 Нет, необязательно. Отметка посещения никак не влияет на цифровой след гражданина по практическим активностям.
 
-![](<../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (5).png>)

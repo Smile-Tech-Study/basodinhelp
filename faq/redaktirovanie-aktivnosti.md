@@ -12,4 +12,4 @@
 2. Скорректировать описание.
 3. Повторно отправить ЦС методиста по данной активности.
 
-![](<../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (7).png>)

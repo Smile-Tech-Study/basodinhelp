@@ -8,4 +8,4 @@
 2. Заполните все обязательные поля
 3. Сохраните поток
 
-![](<../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (66).png>)

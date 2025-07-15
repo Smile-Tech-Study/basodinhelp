@@ -40,4 +40,4 @@
 
 :::
 
-![](<../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (51).png>)

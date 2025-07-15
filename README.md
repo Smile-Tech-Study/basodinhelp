@@ -4,7 +4,7 @@
 
 Включение настройки происходит через запрос в службу технической поддержки [support@odin.study](mailto:support@odin.study).
 
-![](<.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (45).png>)
 
 Работа с Odin в рамках проекта БАС включает в себя 5 этапов:
 
@@ -28,4 +28,4 @@
 
 Заключительный этап предполагает передачу цифрового следа гражданина в У2035 для итоговой проверки. Цифровой след гражданина формируется и передается автоматически в ходе обучения гражданина на платформе Odin.
 
-![](<.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (46).png>)

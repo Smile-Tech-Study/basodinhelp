@@ -8,8 +8,8 @@
 
 По информации от У2035 шкала/система оценивания выбирается на усмотрение провайдера.
 
-![](<../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (79).png>)
 
 Есть требование к сложности задания. Это значение должно быть больше 0. Если указать 0, то выскочит ошибка.
 
-![](<../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (87).png>)

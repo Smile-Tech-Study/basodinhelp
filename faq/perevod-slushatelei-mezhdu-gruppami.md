@@ -10,4 +10,4 @@
 
 Осуществить перевод можно на странице группы по кнопке "Перевести в другую группу".
 
-![](<../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (86).png>)
