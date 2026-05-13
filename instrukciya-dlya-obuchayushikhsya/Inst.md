@@ -1,3 +1,7 @@
+---
+title: Инструкция для обучающихся
+---
+
 # Инструкция для обучающихся
 
 Обязательно[ познакомьтесь с обучением в Odin](https://informa.gitbook.io/odin_students/odin/znakomstvo).

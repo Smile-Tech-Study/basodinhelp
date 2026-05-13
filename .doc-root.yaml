@@ -1,3 +1,27 @@
 title: BAC_odin_help
 optionalCategoryIndex: true
 supportedLanguages: []
+properties: []
+link:
+  name: basodinhelp
+  pathname: github.com/Smile-Tech-Study/basodinhelp/main/-
+  logo: null
+  title: BAC_odin_help
+  query: {}
+  group: null
+  style: null
+  description: null
+  order: 999999
+  isCloning: false
+  cloneCancelDisabled: false
+  redirectOnClone: null
+relatedLinks: []
+name: basodinhelp
+repositoryName: basodinhelp
+sourceName: github.com
+userInfo:
+  mail: kitlove51@list.ru
+  name: LyubovAsseyeva
+  id: kitlove51@list.ru
+logo: logo odin.png
+logo_dark: logo odin.png
