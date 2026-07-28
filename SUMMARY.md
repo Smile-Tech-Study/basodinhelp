@@ -6,7 +6,7 @@ title: Справка по БАС
 
 -  [Интеграция с У2035](./integraciya-s-u2035/README)
 
-   -  [Идентификатор курса в У2035](./integraciya-s-u2035/identifikator-kursa-v-u2035)
+   -  [Идентификатор курса в У2035](./napolnenie-programmy/identifikator-kursa-v-u2035)
 
 -  [Наполнение программы](./napolnenie-programmy/README)
 
@@ -133,5 +133,3 @@ title: Справка по БАС
    -  [Практический блок](./instrukciya-dlya-obuchayushikhsya/prakticheskii-blok)
 
    -  [Итоговая аттестация](./instrukciya-dlya-obuchayushikhsya/itogovaya-attestaciya)
-
-
